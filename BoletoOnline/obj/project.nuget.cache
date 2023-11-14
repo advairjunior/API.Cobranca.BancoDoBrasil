@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VyOkX7oBhLdKTjUvY5KLxatjgLhhqvhoyBwYLwObBMqyQIWaQ26mhRI6igukYINPRqhwArT0idtCIyty2yZbDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuário\\Desktop\\BancoDoBrasilTestesApi\\BoletoOnline.API.BancoDoBrasil\\BoletoOnline\\BoletoOnline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

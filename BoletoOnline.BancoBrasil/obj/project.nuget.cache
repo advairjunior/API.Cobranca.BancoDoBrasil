@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Tkd3xP85GxZVS9Sb9Pz8TEDwqRCvqzHuWtc6JTPym8UAzmsU8L4wnsZsgYKJmGb1zFlKAc+GMJcWwrgbIlkOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuário\\Desktop\\BancoDoBrasilTestesApi\\BoletoOnline.API.BancoDoBrasil\\BoletoOnline.BancoBrasil\\BoletoOnline.BancoBrasil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.identity.client\\4.49.1\\microsoft.identity.client.4.49.1.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

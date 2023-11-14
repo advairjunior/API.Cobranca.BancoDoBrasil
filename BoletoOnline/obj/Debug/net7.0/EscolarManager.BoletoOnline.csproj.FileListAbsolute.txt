@@ -1,0 +1,36 @@
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\bin\Debug\net7.0\EscolarManager.BoletoOnline.deps.json
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\bin\Debug\net7.0\EscolarManager.BoletoOnline.dll
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\bin\Debug\net7.0\EscolarManager.BoletoOnline.pdb
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.csproj.AssemblyReference.cache
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.AssemblyInfoInputs.cache
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.AssemblyInfo.cs
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.csproj.CoreCompileInputs.cache
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.dll
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\refint\EscolarManager.BoletoOnline.dll
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.pdb
+D:\TesteBoletoOnline\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\ref\EscolarManager.BoletoOnline.dll
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\bin\Debug\net7.0\EscolarManager.BoletoOnline.deps.json
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\bin\Debug\net7.0\EscolarManager.BoletoOnline.dll
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\bin\Debug\net7.0\EscolarManager.BoletoOnline.pdb
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.csproj.AssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.AssemblyInfo.cs
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.dll
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\refint\EscolarManager.BoletoOnline.dll
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.pdb
+C:\Users\Escolar Manager\Desktop\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\ref\EscolarManager.BoletoOnline.dll
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\bin\Debug\net7.0\EscolarManager.BoletoOnline.deps.json
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\bin\Debug\net7.0\EscolarManager.BoletoOnline.dll
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\bin\Debug\net7.0\EscolarManager.BoletoOnline.pdb
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.dll
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\refint\EscolarManager.BoletoOnline.dll
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\EscolarManager.BoletoOnline.pdb
+C:\Users\Usuário\Desktop\BancoDoBrasilTestesApi\EscolarManager.BoletoOnline\EscolarManager.BoletoOnline\obj\Debug\net7.0\ref\EscolarManager.BoletoOnline.dll
